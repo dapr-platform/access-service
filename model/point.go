@@ -27,7 +27,7 @@ Table: o_point
 
 JSON Sample
 -------------------------------------
-{    "id": "RXHtfyiwyUAYUSjAMCnGjqOQo",    "gateway_id": "TIJqIiOCDAdvarOOMtOMFmdhX",    "device_id": "WTKwplgIKSuZAtjTeUohFJeQc",    "name": "vAsygQiTkdMBdLrYcaKvbLUMI",    "status": 42}
+{    "id": "axMrmUvXHypCZoNXxqjZqVAwd",    "gateway_id": "wrKayVarwvEYLvNeUjIRfMQAY",    "device_id": "vJPGbVSnLULnRlrLYqIjCsLHq",    "name": "ZYucvQpRFAluMOFgRUwdKRSbT",    "status": 96}
 
 
 

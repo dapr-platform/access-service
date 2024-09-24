@@ -29,7 +29,7 @@ Table: o_tag
 
 JSON Sample
 -------------------------------------
-{    "id": "BuLeGOvCFBYHeYGRfNMCXyGxG",    "rel_id": "xiurMxuJBhEYAYoYmRUfVZUeg",    "key": "CtxKnUqTTIZijHXRZiPfZmvmZ",    "value": "bfUQJbvAIvLDHBRkwGsWnSewX",    "editable": 86,    "rel_type": 20,    "user_id": "qyIDCoyJDeXBUfqwrJFusdCgO"}
+{    "id": "CxiKAUdqsKGpdSqkvZZDFFkxw",    "rel_id": "PuSkBuQHbQwrJedOnYejfoTWg",    "key": "qZTlVsqgKiETVgAbCufFKxuZX",    "value": "ZSjkYdEwIlRpnRSFKMHGiBJIS",    "editable": 26,    "rel_type": 61,    "user_id": "ILOaTuinlbaprLVhUnXqEvFmh"}
 
 
 

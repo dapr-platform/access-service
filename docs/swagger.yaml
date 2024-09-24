@@ -1,0 +1,8 @@
+basePath: /swagger/access-service
+info:
+  contact: {}
+  description: access-service API
+  title: access-service API
+  version: "1.0"
+paths: {}
+swagger: "2.0"

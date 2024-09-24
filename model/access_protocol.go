@@ -32,7 +32,7 @@ Table: o_access_protocol
 
 JSON Sample
 -------------------------------------
-{    "id": "yKkaPVGnpQepXgwMioOpFPpKb",    "created_by": "PiWkFQwKfcxjqgCTAXyPeduBE",    "created_time": 71,    "updated_by": "EpQlWgjxmykfURYDZiIrChVog",    "updated_time": 30,    "identifier": "FPSLQVsmIkaMLjCAmDCwmbnHt",    "status": 67,    "type": "snOTXJcPCCIGOIcQpmQZQyVbF",    "properties": "XBdOffTUGylxUiieyvhuhYBrY",    "enabled": 92}
+{    "id": "CuyKeaINsNBuEkFVmrQbxEsAA",    "created_by": "vfvrwBCGGyfRCAcjqaeLVTGEp",    "created_time": 4,    "updated_by": "nltynPVrLPXDbNcSCscbXqfCP",    "updated_time": 52,    "identifier": "ZVuymXgwSKYBmfvZBWCfvwSyc",    "status": 15,    "type": "nWYGDwCSZtItnDxcLlNKgyFkZ",    "properties": "rVtvMqgYFUVKfVPOuPleKtZbw",    "enabled": 50}
 
 
 

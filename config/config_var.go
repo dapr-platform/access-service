@@ -8,7 +8,7 @@ var MQTT_QOS = 0
 
 var MQTT_BROKER = "emqx:1883"
 var MQTT_USER = "admin"
-var MQTT_PASSWORD = "things2023"
+var MQTT_PASSWORD = "things2024"
 var MQTT_CLIENT_ID = "access-service"
 
 func init() {

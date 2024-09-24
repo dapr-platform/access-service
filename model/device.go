@@ -36,7 +36,7 @@ Table: o_device
 
 JSON Sample
 -------------------------------------
-{    "id": "WuLHMecUZQNJhpQofQTxQvjuR",    "created_by": "FpIKhtgvNDRTAXVLaPRyKGkNN",    "created_time": 98,    "updated_by": "DNlRRjNjZvldLOVlHtDTmjmYD",    "updated_time": 49,    "name": "ZZWACAPqdNSsYYPnHjslgFhun",    "type": 65,    "status": 92,    "parent_id": "RbDTiIdwrHghxWUChEGNwKwTC",    "group_id": "dDHfwAdRcrMtPGomPbBkmRktK",    "product_id": "fEDcGMoRqoRVgMNlYNGSICVal",    "protocol_config": "BBWSmllotQdDggaVsJcpwUaCI",    "identifier": "rvsFgRIbaCaDlpeRYwueJiyAY",    "enabled": 53}
+{    "id": "GIaOEibLZjfGBtcmbKJcgyZgA",    "created_by": "gZLkGxjiugnEVjMYoZcwefxsd",    "created_time": 54,    "updated_by": "HaAZMWQVyRckPPXIHQpFfdwDa",    "updated_time": 41,    "name": "UGKRNuoNWIZiBWUgwHWsveQEP",    "type": 59,    "status": 92,    "parent_id": "gIMFNlWQTDiQDqrjwbjssJYaT",    "group_id": "spjsgytFvBoycmuhyqwLedIWI",    "product_id": "bpsvtJWpsCYLOfPTKTpRGyUrT",    "protocol_config": "pIWqkYtCwGntmpWIHmMrMVsAG",    "identifier": "CgEofAHvfChidRYROjiOVfPWK",    "enabled": 86}
 
 
 

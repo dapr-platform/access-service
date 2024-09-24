@@ -1,0 +1,42 @@
+{
+  "cells": [
+    {
+      "position": {
+        "x": 720,
+        "y": 260
+      },
+      "size": {
+        "width": 450,
+        "height": 180
+      },
+      "shape": "DeviceDataCollection",
+      "id": "92aeb24f-3952-4a95-9655-2f5099020be3",
+      "label": "设备采集",
+      "data": {
+        "type": "DeviceDataCollection",
+        "name": "设备采集",
+        "value": "材质:钢,网关:CMCC-1",
+        "dataType": "tag",
+        "product": "422sSMPtnq0iQH8eZckWD",
+        "productName": "水浸传感器"
+      },
+      "zIndex": 1
+    }
+  ],
+  "backgroundOptions": {
+    "isLabelVisibility": true,
+    "hasAnimate": false,
+    "lineCross": false,
+    "backGroundColor": "#FFFFFF",
+    "labelColor": "#333",
+    "nodeBackGroundColor": "#FFFFFF",
+    "regionBorderColor": "#red",
+    "regionBackGroundColor": "#efdfef",
+    "lineColor": "#666",
+    "lineWidth": 2,
+    "routerType": "manhattan",
+    "isDashLine": false,
+    "showPort": false,
+    "enableArrow": true
+  }
+}

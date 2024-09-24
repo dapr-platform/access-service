@@ -1,6 +1,6 @@
 FROM golang:1.22.5-alpine3.19 as build
 RUN echo "http://mirrors.aliyun.com/alpine/v3.19/main" > /etc/apk/repositories \
-    && apk add --no-cache git \
+    && apk add --no-cache git upx \
     && rm -rf /var/cache/apk/* \
     && rm -rf /root/.cache \
     && rm -rf /tmp/*
@@ -17,8 +17,7 @@ COPY . .
 #RUN go clean -modcache && rm -f go.sum && go mod tidy
 #RUN  rm -f go.sum && go mod tidy
 #RUN swag init --parseDependency --parseInternal --parseDepth 1
-RUN go build -ldflags "-s -w" -o  access-service
-#    && upx -9 access-service
+RUN go build -ldflags "-s -w" -o  access-service && upx -9 access-service
 
 FROM alpine:3.19
 RUN echo "http://mirrors.aliyun.com/alpine/v3.19/main" > /etc/apk/repositories \

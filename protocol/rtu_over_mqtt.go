@@ -5,15 +5,16 @@ import (
 	"encoding/binary"
 	"encoding/hex"
 	"fmt"
+	"net"
+	"net/url"
+	"sync"
+	"time"
+
 	"github.com/aldas/go-modbus-client/packet"
 	"github.com/dapr-platform/common"
 	mqtt "github.com/eclipse/paho.mqtt.golang"
 	"github.com/pkg/errors"
 	"github.com/spf13/cast"
-	"net"
-	"net/url"
-	"sync"
-	"time"
 )
 
 type RtuOverMqttClient struct {
